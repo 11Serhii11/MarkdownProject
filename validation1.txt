@@ -1,0 +1,83 @@
+commit cd869f786db559c6b769a6c1f9e386755a0d7df9
+Author: serhii <y7913092_w@iespoblenou.org>
+Date:   Tue Nov 19 08:41:53 2024 +0100
+
+    Merge add-license branch into main
+
+ LICENSE.md | 7 +++++++
+ 1 file changed, 7 insertions(+)
+
+commit e1f786d68cc865857caa40e33758569e7d92e003
+Author: serhii <y7913092_w@iespoblenou.org>
+Date:   Tue Nov 19 08:36:58 2024 +0100
+
+    Enhance README with formatting.
+
+ README.md | 29 +++++++++++++++++++++++------
+ 1 file changed, 23 insertions(+), 6 deletions(-)
+
+commit eb058810cf6c1885505b9b23ba5312f62db5ed9c
+Author: serhii <y7913092_w@iespoblenou.org>
+Date:   Tue Nov 19 08:28:37 2024 +0100
+
+    Add feature list table to README
+
+ README.md | 7 ++++++-
+ 1 file changed, 6 insertions(+), 1 deletion(-)
+
+commit 7abce7f9d3c16f4ccb01dd02c338d11636b6e1b1
+Author: serhii <y7913092_w@iespoblenou.org>
+Date:   Tue Nov 19 08:19:30 2024 +0100
+
+    Add project logo to README
+
+ README.md       |   3 +++
+ images/logo.jpg | Bin 0 -> 3142 bytes
+ 2 files changed, 3 insertions(+)
+
+commit 32e1702ccd15ac3a5ebcc966f73f26d977da1032
+Author: serhii <y7913092_w@iespoblenou.org>
+Date:   Tue Nov 12 12:04:39 2024 +0100
+
+    Add section to README
+
+ README.md | 13 +++++++++++++
+ 1 file changed, 13 insertions(+)
+
+commit ea05867488a24230a80938047351760c85f059ad
+Author: serhii <y7913092_w@iespoblenou.org>
+Date:   Tue Nov 12 12:02:31 2024 +0100
+
+    Add hyperlinks to README
+
+ README.md | 10 ++++++----
+ 1 file changed, 6 insertions(+), 4 deletions(-)
+
+commit a3baab473fb7f92c66cf09e34afa5ceccf6b23f0
+Author: serhii <y7913092_w@iespoblenou.org>
+Date:   Tue Nov 12 11:56:19 2024 +0100
+
+    Add Table of Contents to README
+
+ README.md | 8 ++++++++
+ 1 file changed, 8 insertions(+)
+
+commit 4fe18e15d9e7d77a264c280ecff7c7ebd7c55e43
+Author: serhii <y7913092_w@iespoblenou.org>
+Date:   Tue Nov 12 11:47:09 2024 +0100
+
+    Add README
+    with project introduction
+
+ README.md | 3 +++
+ 1 file changed, 3 insertions(+)
+
+commit 97511797930d0c0b30b4c32ef80c2f17f389188f
+Author: serhii <y7913092_w@iespoblenou.org>
+Date:   Tue Nov 12 11:39:19 2024 +0100
+
+    Initial commit with .gitignore
+
+ notes/.gitignore | 0
+ notes/notes.txt  | 0
+ 2 files changed, 0 insertions(+), 0 deletions(-)
