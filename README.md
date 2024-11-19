@@ -11,20 +11,20 @@ descripcion del proyecto [Git Documentation.](https://git-scm.com/doc)
 - [Usage](#usage)
 - [License](#license)
 
-###Introduction
+### Introduction
 
 ![Project logo](images/logo.jpg)
 
-###Features
+### Features
 
 
-###Installation
+### Installation
 
 
-###Usage
+### Usage
 
 
-###License
+### License
 
 
 | Feature   | Description              | Status     |
@@ -32,3 +32,20 @@ descripcion del proyecto [Git Documentation.](https://git-scm.com/doc)
 |Feature 1  | Description of feature 1 | In progress|
 |Feature 2  | Description of feature 2 | Complete   |
 |Feature 3  | Description of feature 3 | In progress|
+
+Un texto en **negrita**.
+
+Aqui un texto en _cursiva_.
+
+> Aqui os dejo el codigo
+
+### Codigo
+```python
+# This is a simple Python function to add two numbers
+def add_numbers(a, b):
+"""Return the sum of a and b."""
+return a + b
+# Example usage
+result = add_numbers(5, 7)
+print("The sum is:", result)
+```
