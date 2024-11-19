@@ -24,3 +24,6 @@ descripcion del proyecto [Git Documentation.](https://git-scm.com/doc)
 
 
 ###License
+
+
+![Project logo](images/logo.jpg)
