@@ -13,6 +13,7 @@ descripcion del proyecto [Git Documentation.](https://git-scm.com/doc)
 
 ###Introduction
 
+![Project logo](images/logo.jpg)
 
 ###Features
 
@@ -26,4 +27,8 @@ descripcion del proyecto [Git Documentation.](https://git-scm.com/doc)
 ###License
 
 
-![Project logo](images/logo.jpg)
+| Feature   | Description              | Status     |
+|-----------|--------------------------|------------|
+|Feature 1  | Description of feature 1 | In progress|
+|Feature 2  | Description of feature 2 | Complete   |
+|Feature 3  | Description of feature 3 | In progress|
